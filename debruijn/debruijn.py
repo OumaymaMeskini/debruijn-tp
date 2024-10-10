@@ -522,6 +522,7 @@ def main() -> None:  # pragma: no cover
 if __name__ == "__main__":  # pragma: no cover
     main()
 
+    ##### BLAST RESULTS ########
     # Score = 13649 bits (7391),  Expect = 0.0
     # Identities = 7391/7391 (100%), Gaps = 0/7391 (0%)
     # Strand=Plus/Plus
